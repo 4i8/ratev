@@ -81,7 +81,7 @@ setInterval(function () {
 
 <br>
 
-#### push new value if ther duplicate value it will be replace with new value
+#### push new value if ther duplicate value it will be replace with new rate
 
 ```js
 MyfirstRate.push(...<Objects>);
