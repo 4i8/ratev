@@ -2,7 +2,7 @@
   "name": "ratev",
   "version": "1.0.0",
   "types": "./types/index.d.ts",
-  "description": "ratev is a simple module to rate array of object and return value based on percent 0.1 or higher than 100",
+  "description": "ratev is a simple rate value module to rate array of object and return value based on percent 0.1 or higher than 100",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
